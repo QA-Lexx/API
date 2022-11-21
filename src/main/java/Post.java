@@ -1,4 +1,5 @@
 public class Post {
+    public String date;
     public String name;
     public String passport;
     public String patronymic;
